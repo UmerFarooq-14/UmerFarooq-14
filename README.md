@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello, I'm Umer Farooq
 
-<!--
-**UmerFarooq-14/UmerFarooq-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚀 Passionate Front-End Developer focused on building beautiful, high-performance web interfaces with modern JavaScript frameworks and a strong eye for detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+- 💻 Lifelong tech enthusiast with a love for design and code  
+- 🔭 Currently deepening my skills in the MERN Stack  
+- 🧠 Committed to writing clean, **maintainable, and **scalable code  
+- 🤝 Open to collaborations on web and mobile front-end projects  
+- 🌱 Active contributor to open source and community-driven learning  
+- 💬 Let’s talk about JavaScript, **React, or **UI/UX design systems
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### 💻 Languages & Frameworks
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🔧 Tools & Platforms
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+---
