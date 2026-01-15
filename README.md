@@ -4,7 +4,7 @@
 
 I enjoy turning ideas into real products and continuously improving my skills by working on practical projects.</h3>
 
-<h3 align="left">More About Me:</h3>
+<h3 align="left">🙋‍♂️ About Me</h3>
 
 - 🎓 UnderGraduation in BSCS
 - 💬 Ask me about: **JavaScript, TypeScript, React, Node.js, Express.js,  MongoDB,  Firebase,**
@@ -20,7 +20,7 @@ I enjoy turning ideas into real products and continuously improving my skills by
   <a href="https://linkedin.com/in/umer-farooq-58394732b" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://facebook.com/php?id=100035809863598" target="_blank" rel="noreferrer noopener" title="Facebook" class="social-icon-link">
+  <a href="https://facebook.com/profile.php?id=100035809863598" target="_blank" rel="noreferrer noopener" title="Facebook" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" height="35" width="35" style="vertical-align: middle;"/>
   </a>
 </p>
