@@ -3,6 +3,7 @@
 <h3 align="center">A passionate MERN Stack Developer who loves building full-stack web applications. I work with React for frontend and Node.js, Express, and MongoDB for backend development.
 
 I enjoy turning ideas into real products and continuously improving my skills by working on practical projects.</h3>
+<br /><br />
 
 <h3 align="left">🙋‍♂️ About Me</h3>
 
@@ -11,6 +12,8 @@ I enjoy turning ideas into real products and continuously improving my skills by
 - 📫 How to reach me: [fumerfarooq14@gmail.com](mailto:fumerfarooq14@gmail.com)
 - ⚡ Fun fact: **I love coding and I'm a quick learner.**
 
+## 
+ 
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
 <p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
@@ -26,6 +29,7 @@ I enjoy turning ideas into real products and continuously improving my skills by
 </p>
 </div>
 
+ ## 
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
@@ -48,6 +52,7 @@ I enjoy turning ideas into real products and continuously improving my skills by
 </p>
 </div>
 
+ ## 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=UmerFarooq-14&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="UmerFarooq-14's GitHub Stats" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmerFarooq-14&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
